@@ -2,6 +2,9 @@
 
 ## Proje Adı: Blog Sayfam
 
+## Canlı Demo
+Canlı demo: [Blog Sayfam](https://my-blog-ceu8rh309-omerfarukgzrs-projects.vercel.app/) (Vercel üzerinde yayınlanmıştır.)
+
 ### Proje Açıklaması
 Bu proje, kişisel bir blog sayfası oluşturmak için geliştirilmiştir. Kullanıcılar, blog yazılarını görüntüleyebilir ve yazar hakkında bilgi alabilirler. Proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuştur.
 
