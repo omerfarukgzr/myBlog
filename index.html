@@ -30,6 +30,28 @@
     <link href="css/style.css" rel="stylesheet"/>
     <!-- responsive style -->
     <link href="css/responsive.css" rel="stylesheet"/>
+    <style>
+        html, body {
+            height: 100%;
+        }
+
+        body {
+            display: flex;
+            flex-direction: column;
+        }
+
+        .hero_area, .about_section {
+            flex: none;
+        }
+
+        .about_section {
+            flex-grow: 1;
+        }
+
+        .footer_section {
+            flex-shrink: 0;
+        }
+    </style>
 </head>
 
 <body>
@@ -146,7 +168,7 @@
 
 <section class="container-fluid footer_section">
     <p>
-        Ömer Faruk Gezer <br> <br>
+        Ömer Faruk Gezer  NO: 2121032955 <br> <br>
         <a href="https://www.instagram.com/omerfarukgzrr" target="_blank"><img src="images/instagram.png"
                                                                                alt="Instagram Logo"></a>&nbsp;
         <a href="https://x.com/omerfarukgzr" target="_blank"><img src="images/twitter.png" alt="Twitter Logo"></a>&nbsp;
